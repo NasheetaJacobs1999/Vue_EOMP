@@ -12,7 +12,7 @@
             "facebook": "https://www.facebook.com/nasheetah.jacobs",
             "instagram": "https://www.instagram.com/nasheetajacobs",
             "github": "https://github.com/NasheetaJacobs1999",
-            "linkedin": "www.linkedin.com/in/nasheeta-jacobs-2b2196269"
+            "linkedin": "https://www.linkedin.com/in/nasheeta-jacobs-2b2196269/"
         },
         "occupation": "student",
         "interests": [
@@ -28,6 +28,16 @@
             "English"
         ]
     },
+    "aboutMe": [
+        {
+            "name": "About",
+            "text": "I am a dedicated and results-oriented professional. I have developed a deep understanding of web-developing through self-learning. My career has been marked by a consistent track record of exceeding goals and delivering exceptional results. I thrive in dynamic environments where I can apply my strategic thinking and problem-solving skills to drive innovation and growth. I am passionate about everything I do, which means I am willing to go the extra mile for every task I am given, continuously seeking opportunities to expand my knowledge and keep on track. As a team-oriented individual with strong communication abilities, I excel in collaborating across teams and fostering positive relationships. I am now eager to bring my expertise and commitment to excellence to a new challenge in web-development. I enjoy going outdoors, interacting with friends and family, reading books, playing games, and coding in my spare time."
+        },
+        {
+            "name": "Objectives",
+            "text": "In the dynamic realm of web development, my objective is to leverage my technical proficiency and creative acumen to craft innovative digital solutions that exceed client expectations and drive business growth. With a strong foundation in front-end and back-end technologies, including proficiency in languages such as HTML, CSS, JavaScript, and frameworks like React and Node.js, I am committed to delivering robust, user-centric websites and applications. I strive to stay abreast of emerging trends and best practices in web development, ensuring my work remains at the forefront of technological advancements. My goal is to not only meet project objectives but to also contribute to a culture of continuous improvement and excellence within the industry."
+        }
+    ],
     "records": {
         "education": [
             {
@@ -79,8 +89,8 @@
         ],
         "testimonials": [
             {
-                "author": "Asheeka Samuels",
-                "quote": ""
+                "author": "Joel Mukanya",
+                "quote": "Nasheeta s a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer."
             },
             {
                 "author": "Azhar Jacobs",
@@ -91,16 +101,12 @@
                 "quote": "Allow me to introduce Nasheeta Jacobs, a dynamic presence in the coding sphere. Nasheeta doesn't just possess coding expertise; she injects her work with abundant creativity and a vibrant energy that's truly captivating. Collaborating with Nasheeta is an absolute delight."
             },
             {
-                "author": "Kyle Brink",
-                "quote": ""
+                "author": "Amy Johnson",
+                "quote": "Nasheeta is an individual characterized by a strong work ethic, demonstrating dedication and persistence in all tasks undertaken. She approaches challenges with a practical mindset, focusing on finding effective solutions through her determined efforts. Moreover, Nasheeta is highly interactive, fostering positive relationships and communication with others."
             },
             {
-                "author": "Kiera Kistensamy",
-                "quote": ""
-            },
-            {
-                "author": "Chelsea Julie",
-                "quote": ""
+                "author": "Jamin Langeveldt",
+                "quote": "Working alongside Nasheeta has been an absolute pleasure. Her dedication, attention to detail, and unwavering commitment to excellence have consistently impressed me. Nasheeta's ability to navigate challenges with grace and creativity is truly admirable, making her an invaluable asset to any team or project."
             }
         ],
         "projects": [
