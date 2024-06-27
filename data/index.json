@@ -1,29 +1,133 @@
 {
-    "jobTitle": [
+    "jobTitles": [
         "Full Stack Web Developer"
     ],
-    "about": {
-        "name": "Nasheeta Jacobs",
+    "persoalInfo": {
+        "firstName": "Nasheeta",
+        "lastName": "Jacobs",
         "age": 24,
-        "location": "Cape Town, South Africa",
-        "description": "asjalsdja",
         "email": "nasheetahjacobs@gmail.com",
-        "phone": "+27 635 856 284",
-        "github": "https://github.com/asheekasamuels",
-        "linkedin": "http://www.linkedin.com/in/asheeka-samuels"
+        "mobile": "+27635856284",
+        "social media": {
+            "facebook": "https://www.facebook.com/nasheetah.jacobs",
+            "instagram": "https://www.instagram.com/nasheetajacobs",
+            "github": "https://github.com/NasheetaJacobs1999",
+            "linkedin": "www.linkedin.com/in/nasheeta-jacobs-2b2196269"
+        },
+        "occupation": "student",
+        "interests": [
+            "reading",
+            "gaming",
+            "hiking"
+        ],
+        "location": {
+            "area": "Ottery, Cape Town",
+            "country": "South Africa"
+        },
+        "languages": [
+            "English"
+        ]
     },
-    "education": [
-        {
-            "certificate": "Matric",
-            "school": "The Oracle Academy",
-            "year": 2019}
-    ],
-    "experiences": [
-        {
-            
-        }
-    ],
-    "skills": [],    
-    "testimonials": [],
-    "projects": []
+    "records": {
+        "education": [
+            {
+                "certificate": "Matric",
+                "school": "The Oracle Academy",
+                "year": 2019
+            }
+        ],
+        "work experience": [
+            {
+                "company": "RSG Safety Glass Products",
+                "title": "Customer Service",
+                "yearStarted": 2019,
+                "yearEnded": 2020,
+                "description": "Liaising with customers on order progress, compiling job cards for manufacturing of jobs, daily analysis of Work-in-progress production scheduling, planning production schedule with factory manager to ensure that lead times are achieved"
+            },
+            {
+                "company": "Miron Frameless Glass Designs",
+                "title": "Junior Estimator",
+                "yearStarted": 2020,
+                "yearEnded": 2021,
+                "description": "Finding out the client requirements, researching materials, equipment and labour costs, gathering quotes from sub contractors and suppliers, assessing levels of risk on projects, analyzing company data, exchange rates and prices, preparing and submitting quotes for work to be done, compiling and filing project information, compiling daily information for job costing, preparing project progress reports for management"  
+            },
+            {
+                "company": "Ticktin Timbers",
+                "title": "Administrator/Receptionist",
+                "yearStarted": 2021,
+                "yearEnded": 2023,
+                "description": "Answering incoming calls and redirecting to the respective person, taking messages where the respective person is unable to take the call, receive payments from customers, capturing of all payment (cash and credit card) on Pastel Accounting, reconciling cash and credit card payments on a daily basis, tracking all payments, scanning of all documents into sequence files, assisting the accounts manager with his functions from time-to-time, organizing of functions for the company, purchasing of stationary and other consumables"  
+            }
+        ],
+        "soft skills": [
+            "Organizational",
+            "Effective communicator",
+            "Friendly (Works effectively with others)",
+            "Efficient",
+            "Consistent",
+            "Always looking for continuous improvement in developing new skills"
+        ],
+        "technical skills": [
+            "Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Bootstrap",
+            "Figma",
+            "Vercel",
+            "GitHub"
+        ],
+        "testimonials": [
+            {
+                "author": "Asheeka Samuels",
+                "quote": ""
+            },
+            {
+                "author": "Azhar Jacobs",
+                "quote": "Nasheeta has an infectious personality, Nasheeta's intelligence shines brightly, evident in her insightful conversations and problem-solving skills. She has a remarkable ability to make everyone around her feel valued and appreciated, and her inner beauty radiates in everything she does. Nasheeta is not just a friend; she's a beautiful soul who enriches the lives of those lucky enough to know her."
+            },
+            {
+                "author": "Zakariya Salie",
+                "quote": "Allow me to introduce Nasheeta Jacobs, a dynamic presence in the coding sphere. Nasheeta doesn't just possess coding expertise; she injects her work with abundant creativity and a vibrant energy that's truly captivating. Collaborating with Nasheeta is an absolute delight."
+            },
+            {
+                "author": "Kyle Brink",
+                "quote": ""
+            },
+            {
+                "author": "Kiera Kistensamy",
+                "quote": ""
+            },
+            {
+                "author": "Chelsea Julie",
+                "quote": ""
+            }
+        ],
+        "projects": [
+            {
+                "title": "JS Calculator",
+                "description": "Developed a calculator",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "year": 2024
+            },
+            {
+                "title": "Portfolio",
+                "description": "Developed a portfolio displaying my information",
+                "technologies": ["HTML", "CSS", "Bootstrap"],
+                "year": 2024
+            },
+            {
+                "title": "To Do List",
+                "description": "Developed a to do list",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "year": 2024
+            },
+            {
+                "title": "JS Ecommerce Website",
+                "description": "Developed a store website with functionality",
+                "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
+                "year": 2024
+            }
+        ]
+    }
 }
