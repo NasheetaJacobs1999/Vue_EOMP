@@ -1,0 +1,29 @@
+{
+    "jobTitle": [
+        "Full Stack Web Developer"
+    ],
+    "about": {
+        "name": "Nasheeta Jacobs",
+        "age": 24,
+        "location": "Cape Town, South Africa",
+        "description": "asjalsdja",
+        "email": "nasheetahjacobs@gmail.com",
+        "phone": "+27 635 856 284",
+        "github": "https://github.com/asheekasamuels",
+        "linkedin": "http://www.linkedin.com/in/asheeka-samuels"
+    },
+    "education": [
+        {
+            "certificate": "Matric",
+            "school": "The Oracle Academy",
+            "year": 2019}
+    ],
+    "experiences": [
+        {
+            
+        }
+    ],
+    "skills": [],    
+    "testimonials": [],
+    "projects": []
+}
